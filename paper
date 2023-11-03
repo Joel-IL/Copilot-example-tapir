@@ -1,1 +1,41 @@
+\documentclass{article}
 
+
+\usepackage{graphicx}
+usepackage{amsmath, amssymb, amsthm}
+
+\title {The Meek Tapir} 
+
+\author{J. Iglesias Lopez}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+    In this paper we will explore why the Tapir, a mammal native to South America, 
+    is so meek. We will also explore the Tapir's diet and habitat, alongside the 
+    history of the Tapir within differnet cultures. 
+\end{abstract}
+
+\section{Introduction}
+The Tapir is a mammal native to South America. It is a herbivore, and is known for 
+wandering at night, being a herbivore, and being meek. The animal is notriously
+ugly, and is often compared to a pig. Its skin is thick and leathery, similar to 
+a boar's, and it has a short, prehensile snout. The Tapir is a solitary animal, that 
+tends to wander in the jungles independet of other Tapirs.
+The tapir is also an old species, with the first Tapir fossils dating back to the
+Eocene period, 50 million years ago.
+
+\section{Diet}
+The Tapir is a herbivore, and its diet consists of leaves, buds, shoots, and small frutis. 
+The Tapir is also known to eat aquatic plants, and can even dive to feed on plants. The animal
+will also eat fallen fruit, and will eat the fruit of the palm tree. The Tapir will not eat
+meat, and is a strict herbivore, it will not even eat insects. 
+
+\section{Habitat}
+
+
+
+
+
+\end{document}
